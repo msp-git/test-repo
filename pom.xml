@@ -7,7 +7,7 @@
     <groupId>com.example</groupId>
     <artifactId>demo-app</artifactId>
     <version>1.0.0</version>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
 
     <name>Simple Maven App</name>
     <description>A simple Java Maven app for CI/CD demo</description>
